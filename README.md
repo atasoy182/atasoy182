@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate mobile application and frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atasoy182" alt="atasoy182" /></a> </p>
 
-- 🌱 I’m currently learning **React/React Native/Flutter**
+- 🌱 I’m currently learning **React/React Native/Node.js/Mongoose**
 
 - 📫 How to reach me **atasoy182@gmail.com**
 
